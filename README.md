@@ -1,3 +1,2 @@
 # MiniMechazilla
-Mini Mechazilla 
-Was made as a acadecim project
+Mini Mechazilla was made as a acadecim project
